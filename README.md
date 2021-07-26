@@ -7,6 +7,3 @@ Estudando: PWA, Typescript e testes unitários.
 Studying: PWA, Typescript and unit testing.    
 ____
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalie-brito)
-____
-
-[![Nathalie's github stats](https://github-readme-stats.vercel.app/api?username=nathaliebs&count_private=true&theme=vue&hide=contribs,issues&show_icons=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/nathaliebs)
